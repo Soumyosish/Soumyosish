@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumyosish
-- 👀 I’m interested in cybersecurity and full stack developer
-- 🌱 I’m currently learning python,html5,css,javascript and java
+- 👀 I’m Aspiring Full stack Web developer
+- 🌱 Currently I am in second year pursuing my Btech in Cse from Lovely Professional University. I am enthusiastic about software and it's development of newer technologies. Trying to learn different programming languages and increase my keen interest with knowledge towards web development. Being passionate about coding and the way to develop various webpages in optimal manner aligns with my interest deeply.
 - 📫 How to reach me ...www.linkedin.com/in/soumyosishpal, soumyosishpal.108@gmail.com
 
 <!---
