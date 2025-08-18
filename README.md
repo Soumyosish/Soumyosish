@@ -43,11 +43,11 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyosish&theme=react-dark&hide_border=true)
 
 
-<!--<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
-</picture>-->
+</picture>
  
 
 ## 🌐 Socials:
