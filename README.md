@@ -40,7 +40,7 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 </div>-->
 
 ## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyosish&theme=tokyonight-duo&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyosish&theme=react-dark&hide_border=true)
 
 
 <!--<picture>
