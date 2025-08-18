@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>💫 About Me:</h1>
 
-🚀 Software Developer | <img width="820" height="600" alt="image" src="https://github.com/user-attachments/assets/c543f150-bd8e-427c-97d7-41c2adb3efe0" />
+🚀 Software Developer | <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c543f150-bd8e-427c-97d7-41c2adb3efe0" />
  Open Source Contributor  
 - 🌐 enthusiastic about software and it's development of newer technologies.  
 - 💻 Practicing DSA to increase my passion towards coding.  
