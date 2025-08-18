@@ -6,7 +6,7 @@
 Soumyosish/Soumyosish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![MasterHead]<img src="./github.jpg" alt="Developer GIF"/>
+<img src="./github.jpg" alt="Developer GIF" width="200" />
 
 # Hello there,
 <div>
