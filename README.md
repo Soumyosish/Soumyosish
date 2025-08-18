@@ -6,12 +6,12 @@
 Soumyosish/Soumyosish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="./github.jpg" alt="Developer GIF" width="100" height="100"/>
+![MasterHead]<img src="./github.jpg" alt="Developer GIF"/>
 
 # Hello there,
 <div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Soumyosish+Pal;Open+Source+Contributor+Aspiring+Software+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=👋+Hi,+I'm+Soumyosish+Pal;Open+Source+Contributor+Aspiring+Software+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
 </div>
 
 
