@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="./github.jpg" alt="Developer GIF" width="900" />
 
-# Hello there,
+# 👋 Hi,
 <div>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=👋+Hi,+I'm+Soumyosish+Pal;Open+Source+Contributor+Aspiring+Software+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
@@ -32,7 +32,7 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/Soumyosish/github-readme-stats)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyosish&theme=blue-green&border_radius=10&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Profile Details Card -->
