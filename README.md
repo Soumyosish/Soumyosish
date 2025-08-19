@@ -43,7 +43,7 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
   <img alt="github-snake" src="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
 </picture>
 
-![My GitHub Activity Graph](https://github-activity-graph-e3itpqsk5-soumyosish-pals-projects.vercel.app/api?username=Soumyosish)
+![My GitHub Activity Graph](https://github-activity-graph-3w8tc2imh-soumyosish-pals-projects.vercel.app/api?username=soumyosish)
  
 
 ## 🌐 Socials:
