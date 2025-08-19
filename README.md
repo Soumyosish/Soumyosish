@@ -35,7 +35,6 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 [![](https://github-readme-stats.vercel.app/api?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&count_private=true)](https://github.com/Soumyosish/github-readme-stats)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyosish&theme=blue-green&border_radius=10&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Soumyosish&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!-- Profile Details Card -->
 <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Soumyosish}&theme={blue-green}" alt="profile details"/>
 </div>-->
