@@ -42,6 +42,8 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
 </picture>
+
+![Soumyosish's commit streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyosish)
  
 
 ## 🌐 Socials:
