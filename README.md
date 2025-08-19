@@ -22,7 +22,7 @@
 
 Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyosishpal
 
-<img src="https://github-profile-trophy.vercel.app/?username=Soumyosish&theme=darkhub" align="center"/>
+
 
 ## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&count_private=true)](https://github.com/Soumyosish/github-readme-stats)]<br/>
