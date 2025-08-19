@@ -34,7 +34,7 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 ## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&count_private=true)](https://github.com/Soumyosish/github-readme-stats)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyosish&theme=blue-green&border_radius=10&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false&layout=pie)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Profile Details Card -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyosish&theme=blue-green" alt="profile details"/>
 </div>
