@@ -36,8 +36,10 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Soumyosish&theme=blue-green&border_radius=10&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Profile Details Card -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyosish&theme=blue-green)
 <img src="https://github-profile-summary-cards-kappa.vercel.app/api/cards/profile-details?username=Soumyosish&v=1&theme=blue-green" alt="profile details"/>
 </div>
+
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyosish&theme=react-dark&hide_border=true)
