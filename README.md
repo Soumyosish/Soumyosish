@@ -1,4 +1,4 @@
-<img src="./github.jpg" alt="Developer GIF" width="1000" />
+<img src="./github.jpg" alt="Developer GIF" width="800" />
 
 # 👋 Hi, I'm Soumyosish Pal
 <div>
@@ -43,7 +43,6 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
   <img alt="github-snake" src="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
 </picture>
 
-![My GitHub Activity Graph](https://github-activity-graph-3w8tc2imh-soumyosish-pals-projects.vercel.app/api?username=soumyosish)
  
 
 ## 🌐 Socials:
