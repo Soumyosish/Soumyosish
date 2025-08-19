@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="./github.jpg" alt="Developer GIF" width="1000" />
 
-# 👋 Hi,
+# 👋 Hi, I'm Soumyosish Pal
 <div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=👋+Hi,+I'm+Soumyosish+Pal;Open+Source+Contributor+Aspiring+Software+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=Open+Source+Contributor+Aspiring+Software+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
 </div>
 
 
