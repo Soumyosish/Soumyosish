@@ -1,4 +1,4 @@
-<img src="./github.jpg" alt="Developer GIF" width="800" />
+<img src="./github.jpg" alt="Developer GIF" width="500" />
 
 # 👋 Hi, I'm Soumyosish Pal
 <div>
