@@ -24,7 +24,7 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 ## 📊 GitHub Stats:
 <div align="center">
   
-![Soumyosish's Github Stat](https://github-readme-stats.vercel.app/api?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&count_private=true&cache_bust=true)<br/>
+![Soumyosish's Github Stat](https://github-readme-stats.vercel.app/api?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&count_private=true&cache_bust=1)<br/>
 ![Current streak](https://github-readme-streak-stats.herokuapp.com/?user=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&count_private=true&cache_bust=true)<br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyosish&theme=blue-green&border_radius=10&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_bust=true)
 <!-- Profile Details Card -->
