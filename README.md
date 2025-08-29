@@ -32,6 +32,12 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 
 </div>
 
+# 🏆 Trophies 
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=Soumyosish&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyosish&theme=react-dark&hide_border=true&cache_bust=true)
