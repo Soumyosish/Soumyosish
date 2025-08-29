@@ -35,7 +35,7 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 # 🏆 Trophies 
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=Soumyosish&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Soumyosish&theme=onedark)](https://github.com/Soumyosish/github-profile-trophy)">
 </div>
 
 
