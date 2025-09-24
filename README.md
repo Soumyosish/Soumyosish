@@ -43,7 +43,6 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
   <img alt="github-snake" src="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake.svg" />
 </picture>
 
- ![Github-Activity-Overview](https://github-activity-overview.vercel.app/api/activity/Soumyosish)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumyosishpal)
