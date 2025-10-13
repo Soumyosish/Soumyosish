@@ -19,7 +19,7 @@
 
 Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyosishpal
 
-
+[![Images of @soumyosish's Holopin badges, Hactoberfest25](https://holopin.me/soumyosish)](https://holopin.io/@soumyosish)
 
 ## 📊 GitHub Stats:
 <div align="center">
