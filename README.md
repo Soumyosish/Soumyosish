@@ -22,7 +22,7 @@ Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyos
 [![Images of @soumyosish's Holopin badges, Hactoberfest25](https://holopin.me/soumyosish)](https://holopin.io/@soumyosish)
 
 <p align="left">
-  [![trophy](https://github-profile-trophy.vercel.app/?Soumyosish=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Soumyosish)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ## 📊 GitHub Stats:
