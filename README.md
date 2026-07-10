@@ -8,15 +8,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyosish&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyosish" /> </p>
 
-<h1>💫 About Me:</h1>
+# 💫 About Me
 
-🚀 Software Developer | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c543f150-bd8e-427c-97d7-41c2adb3efe0" />
- Open Source Contributor  
-- 🌐 enthusiastic about software and it's development of newer technologies.  
-- 💻 Practicing DSA to increase my passion towards coding.  
-- 🚀 Constantly learning and staying updated with the knowledge towards web development.  
-- 🎯 Focused on delivering results that create impact and drive progress.  
-
+```json
+{
+  "role": "Software Developer ",
+  "open_source": "Contributor ",
+  "focus": [
+    "Exploring newer technologies",
+    "Practicing DSA to sharpen coding skills ",
+    "Continuous learning in Web Development"
+  ],
+  "goal": "Delivering results that create impact and drive progress "
+}
+```
 Reach Out to me: soumyosishpal.108@gmail.com https://www.linkedin.com/in/soumyosishpal
 
 [![Images of @soumyosish's Holopin badges, Hactoberfest25](https://holopin.me/soumyosish)](https://holopin.io/@soumyosish)
