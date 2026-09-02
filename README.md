@@ -42,9 +42,9 @@ Check out my [portfolio](https://soumyosish-portfolio.vercel.app/), and [CV](htt
 </div>
 
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyosish&theme=react-dark&hide_border=true&cache_bust=true)
-
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumyosish/Soumyosish/output/github-snake-dark.svg" />
